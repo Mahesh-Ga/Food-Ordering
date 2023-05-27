@@ -1,0 +1,110 @@
+header {
+    background-color: #FBEAEB;
+    height: 10vh;
+    font-weight: 700;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: #2F3C7E;
+    font-family: 'Helvetica Neue, Helvetica, Arial, sans-serif';
+    font-size: 6vh;
+    margin-bottom: 4vh;
+    padding-left: 5vh;
+    border-bottom: 3px #2F3C7E solid;
+}
+
+body {
+    margin: 0px;
+}
+
+.dish {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 35vh;
+    width: 25vh;
+    margin: 1.2vh;
+    border: 1px #2F3C7E solid;
+    text-decoration: solid;
+    background-color: #2F3C7E;
+    color: #FBEAEB;
+}
+
+
+li{
+    width: 20vh;
+    font-size:2.35vh;
+}
+
+.dish:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.card-img-top {
+    height: 20vh;
+    width: 100%;
+    border-bottom: 2px #2F3C7E solid;
+    margin-bottom: 2vh;
+}
+
+.dishes {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Helvetica Neue, Helvetica, Arial, sans-serif';
+    font-size: 3vh;
+    color: #2F3C7E;
+    border-bottom: 0px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 10vh;
+}
+
+.cart {
+    font-family: 'Helvetica Neue, Helvetica, Arial, sans-serif';
+    font-size: 4vh;
+    color: #2F3C7E; 
+    width: 50%;
+    margin-right: 12vh;
+}
+
+.main {
+    display: flex;
+    min-height: 100vh;
+}
+
+footer {
+    background-color: #FBEAEB;
+    height: 10vh;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #2F3C7E;
+    font-family: 'Helvetica Neue, Helvetica, Arial, sans-serif';
+    font-size: 6vh;
+    padding-left: 5vh;
+    border-top: 3px #2F3C7E solid;
+    margin-top: 4vh;
+    
+}
+
+table{
+    margin-top: 6vh;
+    border: 2px #2F3C7E solid;
+    text-align: center;
+    font-size: 2.75vh;
+}
+
+
+.Basket{
+    text-align: left;
+    margin-right: 0px;
+}
+
+.BasketSize{
+    display: flex;
+    margin-left: 5vh;
+}
