@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "name": "Handi",
+        "price": "70",
+        "img": "images/chickenHandi.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pizza",
+        "price": "50",
+        "img": "images/Pizza.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Thali",
+        "price": "200",
+        "img": "images/bahubali.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Ramen",
+        "price": "80",
+        "img": "images/ramen.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Burger",
+        "price": "10",
+        "img": "images/ramen.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Burger",
+        "price": "23",
+        "img": "images/ramen.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Burger",
+        "price": "12",
+        "img": "images/ramen.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Burger",
+        "price": "30",
+        "img": "images/ramen.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Burger",
+        "price": "26",
+        "img": "images/ramen.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Burger",
+        "price": "16",
+        "img": "images/ramen.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Burger",
+        "price": "20",
+        "img": "images/ramen.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Burger",
+        "price": "21",
+        "img": "images/ramen.jpg"
+    },  
+    {
+        "id": 13,
+        "name": "Burger",
+        "price": "100",
+        "img": "images/ramen.jpg"
+    }
+
+]
